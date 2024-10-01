@@ -30,6 +30,7 @@ You can also find a list of all available service widgets in the sidebar navigat
 - [Emby](emby.md)
 - [ESPHome](esphome.md)
 - [EVCC](evcc.md)
+- [Fastmail](fastmail.md)
 - [Fileflows](fileflows.md)
 - [Flood](flood.md)
 - [FreshRSS](freshrss.md)

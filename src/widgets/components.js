@@ -27,6 +27,7 @@ const components = {
   emby: dynamic(() => import("./emby/component")),
   esphome: dynamic(() => import("./esphome/component")),
   evcc: dynamic(() => import("./evcc/component")),
+  fastmail: dynamic(() => import("./fastmail/component")),
   fileflows: dynamic(() => import("./fileflows/component")),
   flood: dynamic(() => import("./flood/component")),
   freshrss: dynamic(() => import("./freshrss/component")),

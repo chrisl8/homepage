@@ -122,6 +122,10 @@
         "charge_power": "Charger",
         "watt_hour": "Wh"
     },
+    "fastmail": {
+        "unread": "Unread",
+        "inbox_total": "Inbox Total"
+    },
     "flood": {
         "download": "Download",
         "upload": "Upload",
